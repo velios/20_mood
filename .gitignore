@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.git/
+.idea/
+app/
+node_modules/
+_config.yml
+package.json
+gulpfile.js
