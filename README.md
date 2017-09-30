@@ -10,7 +10,7 @@ Visit https://velios.github.io/20_mood/
     * source css is `app/sass/main.sass`
     * source js is `app/js/common.js`
     * sources compress and minified when execute `gulp build` to `docs/css/main.min.css` and `app/js/sctripts.min.js`
-* `docs` - production data(minified and compress) for show to user as site. Folder is called `docs` because GitHub allows to publish only in `gh-pages`, `docs` folders or in branches.
+* `dist` - production data(minified and compress) for show to user as site. Create when you ecexute `gulp build`
 
 ### How to continue develop
 Before next steps you need install [NodeJs](https://nodejs.org/en/)
