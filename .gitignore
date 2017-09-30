@@ -3,5 +3,8 @@
 .idea/
 node_modules/
 _config.yml
-package.json
-gulpfile.js
+app/**/*.min.js
+app/**/*.min.css
+package-lock.json
+app/libs
+!app/libs/bootstrap-grid/
