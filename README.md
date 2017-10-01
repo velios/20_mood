@@ -9,8 +9,8 @@ Visit https://velios.github.io/20_mood/
 * `app` - source of used libs, html and css
     * source css is `app/sass/main.sass`
     * source js is `app/js/common.js`
-    * sources compress and minified when execute `gulp build` to `docs/css/main.min.css` and `app/js/sctripts.min.js`
-* `dist` - production data(minified and compress) for show to user as site. Create when you ecexute `gulp build`
+    * sources compress and minified when execute `gulp build` to `dist/css/main.min.css` and `dist/js/scripts.min.js`
+* `dist` - production data(minified and compress) for show to user as site. Create when you execute `gulp build`
 
 ### How to continue develop
 Before next steps you need install [NodeJs](https://nodejs.org/en/)
