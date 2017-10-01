@@ -2,7 +2,6 @@
 .git/
 .idea/
 node_modules/
-dist/
 _config.yml
 app/**/*.min.js
 app/**/*.min.css
